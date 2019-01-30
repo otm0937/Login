@@ -82,7 +82,7 @@
         android:id="@+id/wheelone"
         android:layout_width="70dp"
         android:layout_height="70dp"
-        android:layout_marginStart="32dp"
+        android:layout_marginStart="39dp"
         android:layout_marginTop="70dp"
         app:layout_constraintStart_toStartOf="@+id/logo"
         app:layout_constraintTop_toTopOf="@+id/logo"
@@ -93,7 +93,7 @@
         android:layout_width="70dp"
         android:layout_height="70dp"
         android:layout_marginTop="70dp"
-        android:layout_marginEnd="32dp"
+        android:layout_marginEnd="25dp"
         app:layout_constraintEnd_toEndOf="@+id/logo"
         app:layout_constraintTop_toTopOf="@+id/logo"
         app:srcCompat="@drawable/whitewheel" />
